@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAJAT-PC</Machine>
+    <WindowsUser>Rajat</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>329D9CAB84574DA0E8A069C169BCA85D1B1EA72CD7DA0C8A79359A1CF38898A5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>716f998c-45c9-4716-9f7c-f67738bf4f9a_1.0.0.0_neutral__bce8ns34c5syc</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>716f998c-45c9-4716-9f7c-f67738bf4f9a_bce8ns34c5syc!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>716f998c-45c9-4716-9f7c-f67738bf4f9a</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Rajat</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-06-05T16:12:39.310</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\bin\Release\App15.exe">
+      <PackagePath>App15.exe</PackagePath>
+      <Modified>2014-06-05T16:12:37.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\bin\Release\App15.pdb">
+      <PackagePath>App15.pdb</PackagePath>
+      <Modified>2014-06-05T16:12:37.555</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T15:12:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2014-04-15T15:46:12.921</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2014-04-15T16:27:53.870</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\bin\Release\BlankPage1.xaml">
+      <PackagePath>BlankPage1.xaml</PackagePath>
+      <Modified>2014-04-26T11:44:56.765</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2014-04-26T11:24:27.737</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2014-04-26T11:49:23.884</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rajat\Documents\Visual Studio 2012\Projects\App15\App15\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-06-05T16:12:38.090</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
